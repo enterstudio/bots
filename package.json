@@ -2,7 +2,7 @@
   "name": "robocoup",
   "version": "0.1.0",
   "dependencies": {
-    "@slack/client": "^3.1.0",
+    "@slack/client": "^5.0.2",
     "aws-sdk": "^2.3.5",
     "babel-cli": "^6.8.0",
     "babel-core": "^6.8.0",
@@ -23,7 +23,7 @@
     "nodemailer-ses-transport": "^1.3.0",
     "pg": "^4.4.3",
     "ramda": "^0.19.0",
-    "request": "^2.67.0",
+    "request": "^2.88.2",
     "slack-client": "^1.5.1",
     "wordwrap": "^1.0.0"
   },
